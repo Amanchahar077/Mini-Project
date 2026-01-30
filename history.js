@@ -1,4 +1,3 @@
-
 const historyContainer = document.getElementById("historyContainer");
 let history = JSON.parse(localStorage.getItem("searchHistory")) || [];
 
